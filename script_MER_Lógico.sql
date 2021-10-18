@@ -1,4 +1,4 @@
-/* MER_Logico: */
+/* MER_Lógico: */
 
 CREATE TABLE Funcionario (
     id int(3) PRIMARY KEY,
@@ -18,7 +18,7 @@ CREATE TABLE Reserva (
 CREATE TABLE Quarto (
     id int(3) PRIMARY KEY,
     NumLeitos int(3),
-    Frigobar int(3),
+    Ar_condicionado varchar(15),
     Wifi int(3),
     Checkout date,
     Checkin date,
