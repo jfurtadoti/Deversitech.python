@@ -1,4 +1,4 @@
-/* MER_Lógico: */
+/* MER_LÃ³gico: */
 
 CREATE TABLE Funcionario (
     id int(3) PRIMARY KEY,
