@@ -1,2 +1,2 @@
-# Deversitech.python
+# Deversitech-python
 Bootcamp de Linguagem Python
